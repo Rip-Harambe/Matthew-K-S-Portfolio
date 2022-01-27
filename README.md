@@ -10,3 +10,7 @@ The first project that I worked on was my simple bank program. In it I worked on
 1. A main menu
 
 ![MainMenu](https://user-images.githubusercontent.com/91977550/151422774-59088f42-453b-4195-bb9f-77120aba6eb2.png)
+2. The ability to login and signup
+
+![LoginMenu](https://user-images.githubusercontent.com/91977550/151423170-23205ea1-194b-4ac4-b355-a5c135837326.png)
+![Sign up menu](https://user-images.githubusercontent.com/91977550/151423206-e50de064-babc-415e-8241-4c72c7807a1a.png)
