@@ -8,4 +8,5 @@ Below are some examples of what I learned/did in Codeacademy.
 ![Screenshot 2022-01-26 142313](https://user-images.githubusercontent.com/91977550/151257518-7a5599d7-8a86-4a7c-b6e3-cd064deba198.png)
 The first project that I worked on was my simple bank program. In it I worked on making:
 1. A main menu
+
 ![MainMenu](https://user-images.githubusercontent.com/91977550/151422774-59088f42-453b-4195-bb9f-77120aba6eb2.png)
