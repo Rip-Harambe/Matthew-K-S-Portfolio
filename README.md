@@ -6,3 +6,5 @@ I used Codeacademy to learn Java because I found that the interaction of you act
 Below are some examples of what I learned/did in Codeacademy.
 ![Screenshot 2022-01-26 142047](https://user-images.githubusercontent.com/91977550/151257489-728a3a74-0afb-43cd-91dc-de8eebdde819.png)
 ![Screenshot 2022-01-26 142313](https://user-images.githubusercontent.com/91977550/151257518-7a5599d7-8a86-4a7c-b6e3-cd064deba198.png)
+The first project that I worked on was my simple bank program. In it I worked on making:
+1. A main menu
