@@ -29,3 +29,10 @@ The first project that I worked on was my simple bank program. In it I worked on
 5. An interest calculator
 
 ![Interest](https://user-images.githubusercontent.com/91977550/151424801-dee1d2ca-7575-4e16-a9e3-f06681d0731a.png)
+
+My second project was a number guessing game.
+
+You choose the range of numbers and how many guesses you want.
+
+Everytime you guess it tells you if the answer is higher or lower.
+
