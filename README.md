@@ -36,3 +36,6 @@ You choose the range of numbers and how many guesses you want.
 
 Everytime you guess it tells you if the answer is higher or lower.
 
+Code for the number guessing game:
+
+![Number Guessing game](https://user-images.githubusercontent.com/91977550/151637942-be9a4fac-7eca-49f9-93dd-4ded9f21be0e.png)
